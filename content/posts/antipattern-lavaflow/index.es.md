@@ -7,8 +7,6 @@ title = 'Antipatrón: lava seca'
 
 Hoy me gustaría hablaros del antipatrón "Lava seca" (o "Lava flow"/"Dead code" en inglés). Un antipatrón que desafortunadamente me he encontrado en algunos proyectos en los que he trabajado.
 
-![Imagen de presentación con el icono de un volcán y el texto Lava flow antipattern](imgs/lava_flow_antipattern_card.png)
-
 Este antipatrón suele darse lugar en proyectos que son creados inicialmente como un prototipo, un software de investigación o como parte de un hackaton pero que posteriormente se convierte en un software operacional y es llevado a producción.
 
 La razón detrás del nombre "Lava Seca" es simple. Inicialmente el software es desarrollado con una documentación muy vaga o inexistente, intentando varias soluciones para implementar las funciones del programa, bien sea por tener un tiempo muy limitado o porque los programadores se ponen a probar distintas formas de llegar a una solución. Ese código inicial que forma parte de las primeras versiones acaba siendo arrastrado y cuando llega el momento de refactorizarlo es demasiado tarde. La deuda técnica que se acumula es tan inmensa que nadie en el equipo sabe si una refactorización puede producir más problemas que otra cosa.

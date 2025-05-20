@@ -9,8 +9,6 @@ Do you know what monkey patches are? 🐒
 
 You’ve probably seen them before or even implemented them without realizing it. In this post, I’ll clarify this concept to help you introduce *hotfixes* or patches into your code.
 
-![Image with the text Monkey Patches and a drawing of a monkey](./imgs/monkey_patches_card.png)
-
 A *monkey patch* is a term used for changes or patches applied at runtime to functionalities that are already implemented in your code—or in external libraries or components.
 
 This technique is usually used to temporarily modify specific logic and fix isolated cases.

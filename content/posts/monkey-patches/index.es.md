@@ -9,8 +9,6 @@ title = 'Monkey patches'
 
 Probablemente los hayas visto antes o incluso los hayas implementado sin darte cuenta. En este post te voy a aclarar este concepto para introducir *hotfixes* o parches en tu código.
 
-![Imagen con el texto Monkey Patches y un dibujo de un mono](./imgs/monkey_patches_card.png)
-
 Un *monkey patch* es una expresión que se utiliza para aquellos cambios o parches que se hacen durante tiempo de ejecución a funcionalidades que ya han sido implementadas en nuestro código o en librerías o componentes externos.
 
 Esta técnica se utiliza normalmente para modificar una lógica específica y arreglar algunos casos aislados temporalmente.

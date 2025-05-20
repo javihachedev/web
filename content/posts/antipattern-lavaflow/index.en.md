@@ -7,8 +7,6 @@ title = 'Antipattern: Lava Flow'
 
 Today I would like to talk to you about the antipattern "Lava Flow" (also known as "Dead code"). An antipattern that unfortunately I have encountered in some projects I have worked on.
 
-![Presentation image with a volcano icon and the text Lava flow antipattern](imgs/lava_flow_antipattern_card.png)
-
 This antipattern usually occurs in projects that are initially created as prototypes, research software, or as part of a hackathon, but later become operational software and are taken to production.
 
 The reason behind the name "Lava Flow" is simple. Initially, the software is developed with very vague or non-existent documentation, trying several solutions to implement the program's functions, either due to very limited time or because developers try different ways to reach a solution. That initial code, which is part of the early versions, ends up being dragged along, and when the time comes to refactor it, it is too late. The technical debt accumulated is so immense that no one on the team knows if a refactor could cause more problems than it solves.

@@ -7,8 +7,6 @@ title = 'Encontrando el bug con git-bisect'
 
 Imagina que estás trabajando en un proyecto y un día te das cuenta de que algún componente ya no funciona. Los logs no dan ninguna pista sobre dónde está el problema. Hay tantas líneas de código para el componente que pasarías años depurándola. También es imposible identificar el error ejecutando pruebas. Pero hay un detalle importante, sabes que en la versión anterior el componente funcionaba bien. ¿Qué harías para identificar el código problemático?
 
-![Imagen de presentación del artículo con el texto git bisect](imgs/git_bisect_card.png)
-
 Seguramente podrías dar varias respuestas a esta pregunta, pero hoy vamos a hablar sobre una operación de git que te ayudará a resolver este problema: `git bisect`
 
 Usando el comando `git bisect` podremos identificar el commit exacto que introdujo el error en nuestro software. Bajo el capó, git bisect realizará una búsqueda binaria tomando como punto de partida una versión buena y una versión con fallos.
