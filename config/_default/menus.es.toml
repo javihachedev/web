@@ -21,10 +21,16 @@
  weight = 20
 
 [[main]]
-  name = "Libros que me he leído"
+  name = "Lecturas"
   parent = "Blog Personal"
-  pageRef = "/categories/libros/"
+  pageRef = "/categories/lecturas/"
   weight = 20
+
+[[main]]
+ name = "Sueños"
+ parent = "Blog Personal"
+ pageRef = "/categories/sueños/"
+ weight = 30
 
 #[[main]]
 #  name = "example sub-menu 1"

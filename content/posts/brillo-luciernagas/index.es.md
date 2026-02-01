@@ -1,5 +1,5 @@
 +++
-categories = ['personal','libros']
+categories = ['personal','lecturas']
 date = '2025-08-15T00:00:00+00:00'
 draft = false
 title = '📚 El Brillo de las Luciérnagas de Paul Pen'

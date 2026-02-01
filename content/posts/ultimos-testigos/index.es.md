@@ -1,5 +1,5 @@
 +++
-categories = ['personal','libros']
+categories = ['personal','lecturas']
 date = '2024-08-28T00:00:00+00:00'
 draft = false
 title = '📚 Últimos testigos de Svetlana Alexievich'
