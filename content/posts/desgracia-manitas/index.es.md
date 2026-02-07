@@ -5,14 +5,20 @@ draft = false
 title = '😴 La desgracia de los manitas'
 +++
 
-Fui a casa de mis padres a hacerles una visita y me encontré con que estaban haciendo reformas. En la entrada, un albañil colocaba una agarradera en la pared junto a la puerta mientras le gritaba a mi padre: _¨¡No vaya a usarla hasta pasados unos días si no quiere que se rompa!¨_ 
+> ⚠ Advertencia: el siguiente relato forma parte de mi diario de sueños.
 
-Conociendo a mi padre, no creo que le haga mucho caso.
+Aquel día fui a casa de mis padres a hacerles una visita. Al entrar, me encontré con que estaban en plena reforma. Un albañil estaba colocando una agarradera en la pared, junto a la puerta de entrada, mientras le gritaba a mi padre:
 
-Cuando los operarios terminaron su faena, recogieron y se fueron de casa. El aparcamiento estaba completamente desértico, algo habitual del año. Mientras uno de ellos se dirigía al camión de gran tonelaje en el que se desplazaban, el vehículo perdió el freno y comenzó a rodar hacia él. Aunque no había demasiada pendiente, el hombre poco pudo hacer. Cargado hasta las cejas y con poco tiempo a reaccionar, el camión lo aplastó ante la mirada atónita de sus compañeros.
+_«¡No la use hasta dentro de unos días si no quiere que se rompa!»_
 
-De inmediato, los otros albañiles dejaron sus cosas y corrieron hacia la cabina del camión para intentar detenerlo, comprobar si su compañero aún estaba vivo y evitar una tragedia mayor... No tuvieron tanta suerte, el vehículo seguía avanzando sin control. Acabaron estrellándose contra un edificio. La carga del camión, altamente inflamable, explotó por los aires.
+Conociendo a mi padre, no creo que le hiciera mucho caso.
 
-Me pregunto por qué se desplazaban con semejante armatoste. Quizás estaban pluriempleados y alternaban alguna que otra faena con el transporte de mercancías. Pero bueno, resolver ese misterio lo dejamos para otro sueño.
+Cuando los albañiles terminaron su faena, recogieron y se marcharon. 
 
-![Gif animado de un camión](./imgs/truck.gif)
+El aparcamiento de alrededor del piso estaba completamente desierto, algo habitual en aquella época del año. Mientras uno de los albañiles se dirigía al camión de gran tonelaje en el que se desplazaban, el vehículo perdió el freno y comenzó a rodar hacia él. Aunque no había una pendiente demasiado pronunciada, poco pudo hacer: cargado hasta las cejas y sin tiempo para reaccionar, el camión lo aplastó ante la mirada atónita de sus compañeros.
+
+De inmediato, los otros albañiles soltaron sus herramientas y corrieron hacia la cabina para intentar detener el vehículo, comprobar si su compañero seguía con vida y evitar una tragedia mayor. No tuvieron suerte. El camión continuó avanzando sin control hasta estrellarse contra un edificio. La carga, altamente inflamable, explotó por los aires.
+
+Me pregunto por qué se desplazaban con semejante armatoste. Quizá estaban pluriempleados y alternaban las reformas con el transporte de mercancías. Pero bueno, dejaremos ese misterio para otro sueño.
+
+> 🖼️ The Dream. 1912. F. Brossler.
