@@ -1,0 +1,16 @@
++++
+categories = ['portfolio']
+date = '2026-03-08T20:00:00+02:00'
+draft = false
+title = '👨‍💻 Gestor de transferencias remotas (2022 - now)'
++++
+
+Trabajé como **Líder Técnico** en el diseño y desarrollo de un software gestor automático de transferencias de archivos, creado para orquestar intercambios seguros y fiables de archivos a través de múltiples protocolos, sistemas heterogéneos y entornos operativos distribuidos. El objetivo del proyecto era proporcionar una **solución centralizada y extensible** capaz de gestionar transferencias de archivos de forma automática entre distintas entidades y servidores, cada uno con sus propias restricciones técnicas, requisitos de seguridad y configuraciones de red.
+
+Desde una perspectiva arquitectónica, lideré la definición de un **diseño modular y agnóstico al protocolo**, permitiendo soportar múltiples mecanismos de transferencia (como SFTP, FTPS, servicios basados en HTTP y otras integraciones personalizadas) bajo una capa de abstracción unificada. El sistema fue diseñado para operar en entornos segregados, incluyendo redes internas e infraestructuras expuestas externamente, requiriendo una consideración cuidadosa de **límites de seguridad, mecanismos de autenticación y estrategias de tolerancia a fallos**. La escalabilidad, trazabilidad y observabilidad fueron principios fundamentales de la arquitectura, asegurando que todas las transferencias pudieran ser monitorizadas, auditadas y gestionadas de manera eficiente.
+
+En paralelo, fui responsable del diseño e implementación de una **API RESTful para exponer un catálogo estructurado de archivos relacionados con el espacio y sus metadatos asociados**. Esta API permitía a los consumidores consultar, descubrir y recuperar productos de datos de manera consistente y controlada, desacoplando los mecanismos de almacenamiento de archivos de las aplicaciones cliente. Se prestó especial atención al modelado de metadatos, estrategias de versionado, control de acceso y mantenibilidad a largo plazo, garantizando que el catálogo pudiera evolucionar sin romper las integraciones existentes.
+
+Como Líder Técnico, **tomé decisiones técnicas clave, supervisé el desarrollo del backend y aseguré la consistencia entre los componentes**. Coordiné el trabajo del equipo, revisé diseños e implementaciones, y participé activamente en la resolución de desafíos complejos de integración y concurrencia. Dada la naturaleza multi-entorno de la plataforma, se prestó especial atención para garantizar robustez frente a inestabilidad de red, fallos parciales y escenarios de procesamiento asíncrono.
+
+Este proyecto reforzó mi experiencia en la construcción de sistemas con alta integración, donde la **fiabilidad, la interoperabilidad y los límites arquitectónicos claros** son críticos. También puso de manifiesto mi capacidad para traducir requisitos operativos complejos en **soluciones técnicas escalables y mantenibles** que pueden servir como infraestructura fundamental dentro de los ecosistemas del sector espacial.
