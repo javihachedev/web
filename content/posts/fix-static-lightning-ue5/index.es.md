@@ -2,7 +2,7 @@
 categories = ['Blog Técnico']
 date = '2023-03-02T00:00:00+00:00'
 draft = false
-title = 'Arreglando cosillas: Iluminación estática en UE5'
+title = '🛠 Arreglando cosillas: Iluminación estática en UE5'
 +++
 
 Si estás trabajando con UE, y tienes problemas porque la iluminación estática, este es tu post.

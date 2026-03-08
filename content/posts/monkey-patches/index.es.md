@@ -2,7 +2,7 @@
 categories = ['Blog Técnico']
 date = '2021-11-24T00:00:00+00:00'
 draft = false
-title = 'Monkey patches'
+title = '💻 Monkey patches'
 +++
 
 ¿Sabes qué son los parches de mono o *monkey patches*? 🐒

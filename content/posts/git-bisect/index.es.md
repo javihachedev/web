@@ -2,7 +2,7 @@
 categories = ['Blog Técnico']
 date = '2022-02-01T00:00:00+00:00'
 draft = false
-title = 'Encontrando el bug con git-bisect'
+title = '💻 Encontrando el bug con git-bisect'
 +++
 
 Imagina que estás trabajando en un proyecto y un día te das cuenta de que algún componente ya no funciona. Los logs no dan ninguna pista sobre dónde está el problema. Hay tantas líneas de código para el componente que pasarías años depurándola. También es imposible identificar el error ejecutando pruebas. Pero hay un detalle importante, sabes que en la versión anterior el componente funcionaba bien. ¿Qué harías para identificar el código problemático?

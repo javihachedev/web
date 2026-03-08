@@ -2,7 +2,7 @@
 categories = ['technical']
 date = '2022-04-19T00:00:00+00:00'
 draft = false
-title = 'Developer Tools: Mockaroo'
+title = '💻 Developer Tools: Mockaroo'
 +++
 
 Have you ever needed to create a data collection to test your application? Mockaroo can help you with this task in a very quick and efficient way, for free.

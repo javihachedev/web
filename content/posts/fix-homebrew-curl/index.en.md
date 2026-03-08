@@ -2,7 +2,7 @@
 categories = ['technical']
 date = '2022-05-09T00:00:00+00:00'
 draft = false
-title = 'Fixing stuff: Homebrew cannot find curl'
+title = '🛠 Fixing stuff: Homebrew cannot find curl'
 +++
 
 *TL;DR: install curl using* `apt`

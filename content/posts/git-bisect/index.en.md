@@ -2,7 +2,7 @@
 categories = ['technical']
 date = '2022-02-01T00:00:00+00:00'
 draft = false
-title = 'Finding the bug with git-bisect'
+title = '💻 Finding the bug with git-bisect'
 +++
 
 Imagine you're working on a project and one day you realize that a component has stopped working. The logs give no clue as to where the problem is. The component's codebase is so large it would take forever to debug it. Tests don’t help identify the issue either. But here’s an important detail—you know that in the previous version, the component worked fine. What would you do to find the faulty code?

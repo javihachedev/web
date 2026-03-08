@@ -2,7 +2,7 @@
 categories = ['technical']
 date = '2021-11-24T00:00:00+00:00'
 draft = false
-title = 'Monkey patches'
+title = '💻 Monkey patches'
 +++
 
 Do you know what monkey patches are? 🐒

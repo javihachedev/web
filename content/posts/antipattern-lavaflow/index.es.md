@@ -2,7 +2,7 @@
 categories = ['Blog Técnico']
 date = '2022-01-18T20:46:21+02:00'
 draft = false
-title = 'Antipatrón: lava seca'
+title = '💻 Antipatrón: lava seca'
 +++
 
 Hoy me gustaría hablaros del antipatrón "Lava seca" (o "Lava flow"/"Dead code" en inglés). Un antipatrón que desafortunadamente me he encontrado en algunos proyectos en los que he trabajado.

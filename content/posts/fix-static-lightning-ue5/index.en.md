@@ -2,7 +2,7 @@
 categories = ['technical']
 date = '2023-03-02T00:00:00+00:00'
 draft = false
-title = 'Fixing stuff: Static lighting in UE5'
+title = '🛠 Fixing stuff: Static lighting in UE5'
 +++
 
 If you're working with UE and having issues with static lighting, this is the post for you.

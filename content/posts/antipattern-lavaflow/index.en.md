@@ -2,7 +2,7 @@
 categories = ['technical']
 date = '2022-01-18T20:46:21+02:00'
 draft = false
-title = 'Antipattern: Lava Flow'
+title = '💻 Antipattern: Lava Flow'
 +++
 
 Today I would like to talk to you about the antipattern "Lava Flow" (also known as "Dead code"). An antipattern that unfortunately I have encountered in some projects I have worked on.

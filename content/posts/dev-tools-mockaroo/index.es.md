@@ -2,7 +2,7 @@
 categories = ['Blog Técnico']
 date = '2022-04-19T00:00:00+00:00'
 draft = false
-title = 'Herramientas para desarrolladores: Mockaroo'
+title = ' 💻 Herramientas para desarrolladores: Mockaroo'
 +++
 
 ¿Alguna vez has necesitado crear una colección de datos para testear tu aplicación? Mockaroo te puede ayudar con esta tarea de una forma muy rápida y eficiente de forma gratuita.
